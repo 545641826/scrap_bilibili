@@ -1,0 +1,4 @@
+How to download bilibili(1080)
+url example:
+https://www.bilibili.com/bangumi/play/ep199969/
+need cookie
